@@ -1,4 +1,4 @@
 fun main (){
-    var mensaje = "Hola"
-    print(mensaje)
+    print("Hola mundo")
+    print("Otro mensaje")
 }
